@@ -1,6 +1,6 @@
 # CSS Loaders (follow-along)
 
- > Loaders in CSS.
+ Loaders in CSS.
 
 - spinner. 
 - bouncing balls.
