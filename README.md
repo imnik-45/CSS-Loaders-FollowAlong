@@ -23,3 +23,16 @@
 
 <br>
 <hr>
+
+- Flipping Squares
+
+![flippingSquares](https://user-images.githubusercontent.com/51753810/99867453-97d5ba80-2bdf-11eb-99a5-c0216cc8bd87.gif)
+
+<br>
+<hr>
+
+## One Screen
+
+![OneScreengif](https://user-images.githubusercontent.com/51753810/99867473-d10e2a80-2bdf-11eb-9f35-bd57948b39f7.gif)
+
+<hr>
